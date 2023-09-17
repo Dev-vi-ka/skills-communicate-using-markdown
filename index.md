@@ -1,3 +1,7 @@
+- [x] log on GitHub Pages
+- [ ] make my portfolio
+- [ ] Introduce myself
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
